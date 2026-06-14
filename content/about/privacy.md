@@ -14,7 +14,7 @@ SS14 Authentication Hub
 Wizard's Den SS14 servers
 : Official game servers (named "Wizard's Den") ran by us. Only relevant if you actually connect and play on these servers.
 
-[SS14 Forums](https://forum.spacestation14.com/)
+[SS14 Forums](https://forum.playss14.com/)
 : Official forums for SS14. Only relevant if you connect to these forums.
 
 ## Authentication Hub Privacy Policy
@@ -28,7 +28,7 @@ We collect only data you enter into the website or launcher to register your acc
 * Username
 * Time of registration
 * Randomly generated UUID to identify your account across SS14
-* Patreon user ID and membership tier (if you choose to [link your Patreon account](https://account.spacestation14.com/Identity/Account/Manage/ManagePatreon))
+* Patreon user ID and membership tier (if you choose to [link your Patreon account](https://account.playss14.com/Identity/Account/Manage/ManagePatreon))
 
 We use your email address to confirm validity of your account and may send you necessary emails for administration of the authentication server in the future. **We will not send you any form of marketing or promotional emails.**
 
@@ -39,7 +39,7 @@ The following data is considered public information that may be queried for or s
 * username
 * account UUID
 * account creation time
-* Patreon membership tier (if you choose to [link your Patreon account](https://account.spacestation14.com/Identity/Account/Manage/ManagePatreon))
+* Patreon membership tier (if you choose to [link your Patreon account](https://account.playss14.com/Identity/Account/Manage/ManagePatreon))
 
 We do not share any other data such as your email address (via game servers or API) without your explicit consent.
 
@@ -67,7 +67,7 @@ Some interactions (talking in OOC, conversations with server staff) may be sent 
 
 ## Forum Privacy Policy
 
-This section of the privacy policy applies only if you use our [first-party forum](https://forum.spacestation14.com/).
+This section of the privacy policy applies only if you use our [first-party forum](https://forum.playss14.com/).
 
 We store all data you submit on the forum.
 

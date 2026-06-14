@@ -1,5 +1,5 @@
 import { ensureOk } from "./util.js";
-const HubApiUrl = "https://hub.spacestation14.com/";
+const HubApiUrl = "https://hub.playss14.com/";
 // const HubApiUrl = "http://localhost:21953/";
 
 export type ServerStatusData = {

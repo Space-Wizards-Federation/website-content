@@ -19,4 +19,4 @@ First, I added [Liltenhead](https://www.youtube.com/@Liltenhead)'s weekly update
 
 I do have more plans for things to do with the website, but that's not for today.
 
-P.S. I finally moved the main website to spacestation14.com. Finally.
+P.S. I finally moved the main website to playss14.com. Finally.

@@ -1,4 +1,4 @@
-baseURL: "https://spacestation14.com/"
+baseURL: "https://playss14.com/"
 locale: "en-us"
 title: "Space Station 14"
 ignoreFiles: ["\\.ts$", "tsconfig.json$"]

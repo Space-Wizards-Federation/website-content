@@ -13,4 +13,4 @@ We are now hosting a *Weblate* instance, so if you're interested in translating,
 
 For now, **only the launcher can be translated from Weblate**. While the main game has supported translation for years, it's something only other servers can make use of. Because we don't want people to contribute translations that are not going to be used, our current policy remains that we are not accepting translations for the main game ourselves.
 
-If you are interested, we have a more formal documentation page [here](https://docs.spacestation14.com/en/general-development/contributing-translations.html) with instructions.
+If you are interested, we have a more formal documentation page [here](https://docs.playss14.com/en/general-development/contributing-translations.html) with instructions.

@@ -1,6 +1,6 @@
 ﻿// noinspection CssInvalidHtmlTagReference
 
-const changelogUrl = 'https://moon.spacestation14.com/changelog.xml';
+const changelogUrl = 'https://moon.playss14.com/changelog.xml';
 
 export async function fetchChangelog()
 {
