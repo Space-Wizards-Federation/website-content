@@ -28,11 +28,11 @@ Any other domain is not affiliated with us.
 - [Twitter](https://twitter.com/space_station14)
 
 #### Development
-- [GitHub Organization](https://github.com/space-wizards)
-- [Game Repository](https://github.com/space-wizards/space-station-14)
-- [Engine Repository](https://github.com/space-wizards/RobustToolbox)
-- [Documentation](https://docs.playss14.com)
-- [RSIEdit](https://github.com/space-wizards/RSIEdit)
+- [GitHub Organization](https://github.com/Space-Wizards-Federation/)
+- [Game Repository](https://github.com/Space-Wizards-Federation/space-station-14/)
+- [Engine Repository](https://github.com/Space-Wizards-Federation/RobustToolbox)
+- [Documentation](https://github.com/Space-Wizards-Federation/docs/)
+- [RSIEdit](https://github.com/Space-Wizards-Federation/RSIEdit/)
 
 ### Official Servers
 
