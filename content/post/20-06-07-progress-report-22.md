@@ -35,18 +35,6 @@ We also commisioned some art for the Steam release, especially for the library. 
 
 Credits to [**wasteroforange**](https://wasteroforange.tumblr.com/) for the amazing art, she knocked it completely out of the park compared to our initial ideas for the art.
 
-## We're on Patreon!
-
-<a href="https://www.patreon.com/bePatron?u=27619661" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-Along with the Steam release, we also have a Patreon now!
-
-We intend for the money coming from Patreon to mostly go to practical costs like hosting, artwork, and other such things that we can't just code in our free time. We'll have to see what to do with any leftover money. Bounties are one option, although none of us really are warm on the idea of having to manage those.
-
-Some ground rules:
-* We will be completely transparent about where every single penny goes.
-* People that get to decide on bounties do not get to claim them, if/when we do them.
-
 ## In And Out
 
 {{< video-auto "/video/pr_22/hacking-v2.mp4" >}}

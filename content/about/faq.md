@@ -22,10 +22,7 @@ Any other domain is not affiliated with us.
 - [Official Forums](https://forum.playss14.com)
 
 #### Socials
-- [Patreon](https://www.patreon.com/spacestation14) ([Finances](https://docs.google.com/spreadsheets/d/1_EIs2myVyatmbuPxkhwvgIGzQ543v4LewhbDivJdV_o/edit?usp=sharing))
-- [Discord](https://discord.ss14.io)
-- [Mastodon](https://mastodon.gamedev.place/@spacestation14)
-- [Twitter](https://twitter.com/space_station14)
+- [Discord](https://discord.gg/ss14)
 
 #### Development
 - [GitHub Organization](https://github.com/Space-Wizards-Federation/)
@@ -43,7 +40,7 @@ If you've been banned in a third-party server, there's nothing we can do.
 You'll have to appeal your ban with them.
 
 ### Q: Is the game free?
-Yes, and it will always be. If you want to support us, check out our [Patreon](https://www.patreon.com/spacestation14).
+Yes, and it will always be.
 
 ### Q: Is It Cursed?
 Nah.
@@ -71,7 +68,7 @@ Many of our devs are coders, contributors, admins and hosts of various SS13 comm
 It's written in C# using our own engine; [Robust Toolbox](https://github.com/space-wizards/RobustToolbox). C# is a good language and it's perfect for this project. It's easy to pick up, comfortable to write and pretty fast.
 
 ### Q: Can I help?
-Of course! Our [Discord](http://discord.ss14.io/) server is the best place to ask questions and get help. We also have guides on our [Dev Wiki](https://docs.playss14.com) on [getting setup](https://docs.playss14.com/en/general-development/setup/setting-up-a-development-environment.html) and [coding](https://docs.playss14.com/en/general-development/setup/howdoicode.html).
+Of course! Our [Discord](https://discord.gg/ss14) server is the best place to ask questions and get help. We also have guides on our [Dev Wiki](https://docs.playss14.com) on [getting setup](https://docs.playss14.com/en/general-development/setup/setting-up-a-development-environment.html) and [coding](https://docs.playss14.com/en/general-development/setup/howdoicode.html).
 
 ### Q: Does SS14 support multiple codebases/servers like SS13?
 Of course! You can checkout our [hosting guide](https://docs.playss14.com/en/general-development/setup/server-hosting-tutorial.html) to get started.
@@ -82,11 +79,6 @@ You can read them [here](https://docs.playss14.com/en/community/space-wizards-hu
 ### Q: Can I use SS14's engine to make other games?
 Yes, we even have templates for both [singleplayer](https://github.com/space-wizards/RobustToolboxTemplateSingleplayer) and [multiplayer](https://github.com/space-wizards/RobustToolboxTemplate) games to help get you started.
 
-### Q: Is There a Patreon? Can I donate?
-[Yes.](https://www.patreon.com/spacestation14) We started a Patreon in order to pay for productivity software, server hosting, art commissions, and more! In addition to providing rewards, we will also regularly post a financial statement that shows how our income is being used in the game's development. We want to give our patrons full trust and confidence, and we believe that being 100% transparent about how the money is being used is best.
-
-Our finances are public in this regularly updated [google sheet](https://docs.google.com/spreadsheets/d/1_EIs2myVyatmbuPxkhwvgIGzQ543v4LewhbDivJdV_o/edit?usp=sharing).
-
 ### Q: How can I appeal an in-game ban?
 If you have been banned from the official "Wizard's Den" servers, you can appeal your ban in our [forums](https://forum.playss14.com/w/ban-appeal).
 
@@ -96,7 +88,7 @@ If you were banned from another server you will need to ask them about appealing
 You can read them [here](https://wiki.playss14.com/wiki/Server_Rules).
 
 ### Q: Help! My game is crashing, where do I get help?
-You can ask for help in our [Discord server](https://discord.ss14.io) in the [#help](https://discord.com/channels/310555209753690112/790656972801572905) channel, or on our [forums](https://forum.playss14.com/c/general/help/46).
+You can ask for help in our [Discord server](https://discord.gg/ss14) in the [#help](https://discord.com/channels/310555209753690112/790656972801572905) channel, or on our [forums](https://forum.playss14.com/c/general/help/46).
 
 ### Q: How do I enable logging?
 On the launcher's options tab, enable "log client" and "log launcher". Press "Open Log directory" to see the logs.
