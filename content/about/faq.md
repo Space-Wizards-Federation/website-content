@@ -23,8 +23,6 @@ Any other domain is not affiliated with us.
 
 #### Socials
 - [Discord](https://discord.gg/ss14)
-- [Mastodon](https://mastodon.gamedev.place/@spacestation14)
-- [Twitter](https://twitter.com/space_station14)
 
 #### Development
 - [GitHub Organization](https://github.com/Space-Wizards-Federation/)
