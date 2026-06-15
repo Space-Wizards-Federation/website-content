@@ -23,7 +23,7 @@ Any other domain is not affiliated with us.
 
 #### Socials
 - [Patreon](https://www.patreon.com/spacestation14) ([Finances](https://docs.google.com/spreadsheets/d/1_EIs2myVyatmbuPxkhwvgIGzQ543v4LewhbDivJdV_o/edit?usp=sharing))
-- [Discord]([https://discord.ss14.io](https://discord.gg/ss14))
+- [Discord](https://discord.gg/ss14)
 - [Mastodon](https://mastodon.gamedev.place/@spacestation14)
 - [Twitter](https://twitter.com/space_station14)
 
