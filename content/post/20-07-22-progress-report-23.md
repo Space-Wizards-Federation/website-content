@@ -13,7 +13,7 @@ Sadly atmos is not done yet. A lot of other stuff is though!
 <!--more-->
 
 ## New hardware, new server
-We'd like to thank all our generous patrons for enabling us to acquire better hardware for our servers. If you would like to support Space Station 14, consider contributing to our [Patreon](https://www.patreon.com/spacestation14).
+We'd like to thank all our generous patrons for enabling us to acquire better hardware for our servers.
 
 The collected money has been used to rent a much more powerful dedicated box for our new server, **EU West 2**.
 
