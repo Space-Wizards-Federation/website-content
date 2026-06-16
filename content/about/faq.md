@@ -65,7 +65,7 @@ Yes/No. The original creator of SS13 would be Exadv1 in 2003. Since its open-sou
 Many of our devs are coders, contributors, admins and hosts of various SS13 communities, but none of us were there in 2003.
 
 ### Q: What Language/Engine is SS14 written in?
-It's written in C# using our own engine; [Robust Toolbox](https://github.com/space-wizards/RobustToolbox). C# is a good language and it's perfect for this project. It's easy to pick up, comfortable to write and pretty fast.
+It's written in C# using our own engine; [Robust Toolbox](https://github.com/Space-Wizards-Federation/RobustToolbox). C# is a good language and it's perfect for this project. It's easy to pick up, comfortable to write and pretty fast.
 
 ### Q: Can I help?
 Of course! Our [Discord](https://discord.gg/ss14) server is the best place to ask questions and get help. We also have guides on our [Dev Wiki](https://docs.playss14.com) on [getting setup](https://docs.playss14.com/en/general-development/setup/setting-up-a-development-environment.html) and [coding](https://docs.playss14.com/en/general-development/setup/howdoicode.html).
@@ -77,7 +77,7 @@ Of course! You can checkout our [hosting guide](https://docs.playss14.com/en/gen
 You can read them [here](https://docs.playss14.com/en/community/space-wizards-hub-rules.html).
 
 ### Q: Can I use SS14's engine to make other games?
-Yes, we even have templates for both [singleplayer](https://github.com/space-wizards/RobustToolboxTemplateSingleplayer) and [multiplayer](https://github.com/space-wizards/RobustToolboxTemplate) games to help get you started.
+Yes, we even have templates for both [singleplayer](https://github.com/Space-Wizards-Federation/RobustToolboxTemplateSingleplayer) and [multiplayer](https://github.com/Space-Wizards-Federation/RobustToolboxTemplate) games to help get you started.
 
 ### Q: How can I appeal an in-game ban?
 If you have been banned from the official "Wizard's Den" servers, you can appeal your ban in our [forums](https://forum.playss14.com/w/ban-appeal).
