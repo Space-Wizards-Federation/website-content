@@ -1,6 +1,6 @@
 # Space-Wizards Hugo
 
-This is the [Hugo](https://gohugo.io) content used to build [the website](https://space-wizards.github.io). You will obviously need to have hugo installed and on your `PATH`. Since I don't expect you to read Hugo's documentation to make a blog post I'll quickly write some stuff down for you here.
+This is the [Hugo](https://gohugo.io) content used to build [the website](https://playss14.com). You will obviously need to have hugo installed and on your `PATH`. Since I don't expect you to read Hugo's documentation to make a blog post I'll quickly write some stuff down for you here.
 
 First though you need to init Git submodules so do that:
 

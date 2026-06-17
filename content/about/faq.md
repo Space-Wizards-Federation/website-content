@@ -8,6 +8,11 @@ navlinkactive = "faq"
 
 ### Links
 
+:::info
+Many links on this page may not lead to pages that exist at the moment.
+It will take some time for them to be brought back up so please bear with us.
+:::
+
 These are the official Space Wizards domains:
 
 	playss14.com, playspacestation14.com
@@ -17,9 +22,9 @@ Any other domain is not affiliated with us.
 
 #### Space Station 14
 - [Downloads](/about/nightlies/)
-- [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
+<!--- [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
 - [Game Wiki](https://wiki.playss14.com)
-- [Official Forums](https://forum.playss14.com)
+- [Official Forums](https://forum.playss14.com)-->
 
 #### Socials
 - [Discord](https://discord.gg/ss14)
@@ -43,24 +48,27 @@ You'll have to appeal your ban with them.
 Yes, and it will always be.
 
 ### Q: Is It Cursed?
-Nah.
+A little.
 
 ### Q: Where can I download the Standalone version of the game?
 In our [downloads page](/about/nightlies/).
 
-### Q: Where can I sign up for the Steam Playtest?
+<!--### Q: Where can I sign up for the Steam Playtest?
 In our [official Steam page](https://store.steampowered.com/app/1255460/Space_Station_14/).
-We give access to everyone in the queue every other week.
+We give access to everyone in the queue every other week.-->
 
 ### Q: Are there any differences between the Steam and Standalone versions of the game?
-No. Steam does get automatic updates to the launcher but otherwise they are functionally identical.
+<!--No. Steam does get automatic updates to the launcher but otherwise they are functionally identical.
 
-In the future we intend to add some better integration such as the ability to log into the game via Steam or Steam Cloud synchronization of settings, but these are not currently present.
+In the future we intend to add some better integration such as the ability to log into the game via Steam or Steam Cloud synchronization of settings, but these are not currently present.-->
+Yes. We currently do not have control of the Steam Version of the game or launcher at this time.
+
+The Steam version is out of date and will continue to fall out of date until we regain control of it. We currently do not have an ETA for this.
 
 ### Q: How do I learn to play the game?
 Check out our [beginner's guide](https://wiki.playss14.com/wiki/Getting_Started) and the rest of our [player wiki](https://wiki.playss14.com).
 
-### Q: Are you the original creator of SS13?
+### Q: Are you the original creators of SS13?
 Yes/No. The original creator of SS13 would be Exadv1 in 2003. Since its open-sourcing in 2006, the community has been the developers of SS13.
 Many of our devs are coders, contributors, admins and hosts of various SS13 communities, but none of us were there in 2003.
 
