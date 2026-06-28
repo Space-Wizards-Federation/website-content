@@ -22,19 +22,19 @@ Any other domain is not affiliated with us.
 
 #### Space Station 14
 - [Downloads](/about/nightlies/)
-<!--- [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
-- [Game Wiki](https://wiki.playss14.com)
+- [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/)
+<!-- - [Game Wiki](https://wiki.playss14.com)
 - [Official Forums](https://forum.playss14.com)-->
 
 #### Socials
 - [Discord](https://discord.gg/ss14)
 
 #### Development
-- [GitHub Organization](https://github.com/Space-Wizards-Federation/)
-- [Game Repository](https://github.com/Space-Wizards-Federation/space-station-14/)
-- [Engine Repository](https://github.com/Space-Wizards-Federation/RobustToolbox)
-- [Documentation](https://github.com/Space-Wizards-Federation/docs/)
-- [RSIEdit](https://github.com/Space-Wizards-Federation/RSIEdit/)
+- [GitHub Organization](https://github.com/space-wizards/)
+- [Game Repository](https://github.com/space-wizards/space-station-14/)
+- [Engine Repository](https://github.com/space-wizards/RobustToolbox)
+- [Documentation](https://github.com/space-wizards/docs/)
+- [RSIEdit](https://github.com/space-wizards/RSIEdit/)
 
 ### Official Servers
 
@@ -53,17 +53,14 @@ A little.
 ### Q: Where can I download the Standalone version of the game?
 In our [downloads page](/about/nightlies/).
 
-<!--### Q: Where can I sign up for the Steam Playtest?
+### Q: Where can I sign up for the Steam Playtest?
 In our [official Steam page](https://store.steampowered.com/app/1255460/Space_Station_14/).
-We give access to everyone in the queue every other week.-->
+We give access to everyone in the queue every other week.
 
 ### Q: Are there any differences between the Steam and Standalone versions of the game?
-<!--No. Steam does get automatic updates to the launcher but otherwise they are functionally identical.
+No. Steam does get automatic updates to the launcher but otherwise they are functionally identical.
 
-In the future we intend to add some better integration such as the ability to log into the game via Steam or Steam Cloud synchronization of settings, but these are not currently present.-->
-Yes. We currently do not have control of the Steam Version of the game or launcher at this time.
-
-The Steam version is out of date and will continue to fall out of date until we regain control of it. We currently do not have an ETA for this.
+In the future we intend to add some better integration such as the ability to log into the game via Steam or Steam Cloud synchronization of settings, but these are not currently present.
 
 ### Q: How do I learn to play the game?
 Check out our [beginner's guide](https://wiki.playss14.com/wiki/Getting_Started) and the rest of our [player wiki](https://wiki.playss14.com).
@@ -73,7 +70,7 @@ Yes/No. The original creator of SS13 would be Exadv1 in 2003. Since its open-sou
 Many of our devs are coders, contributors, admins and hosts of various SS13 communities, but none of us were there in 2003.
 
 ### Q: What Language/Engine is SS14 written in?
-It's written in C# using our own engine; [Robust Toolbox](https://github.com/Space-Wizards-Federation/RobustToolbox). C# is a good language and it's perfect for this project. It's easy to pick up, comfortable to write and pretty fast.
+It's written in C# using our own engine; [Robust Toolbox](https://github.com/space-wizards/RobustToolbox). C# is a good language and it's perfect for this project. It's easy to pick up, comfortable to write and pretty fast.
 
 ### Q: Can I help?
 Of course! Our [Discord](https://discord.gg/ss14) server is the best place to ask questions and get help. We also have guides on our [Dev Wiki](https://docs.playss14.com) on [getting setup](https://docs.playss14.com/en/general-development/setup/setting-up-a-development-environment.html) and [coding](https://docs.playss14.com/en/general-development/setup/howdoicode.html).
@@ -85,7 +82,7 @@ Of course! You can checkout our [hosting guide](https://docs.playss14.com/en/gen
 You can read them [here](https://docs.playss14.com/en/community/space-wizards-hub-rules.html).
 
 ### Q: Can I use SS14's engine to make other games?
-Yes, we even have templates for both [singleplayer](https://github.com/Space-Wizards-Federation/RobustToolboxTemplateSingleplayer) and [multiplayer](https://github.com/Space-Wizards-Federation/RobustToolboxTemplate) games to help get you started.
+Yes, we even have templates for both [singleplayer](https://github.com/space-wizards/RobustToolboxTemplateSingleplayer) and [multiplayer](https://github.com/space-wizards/RobustToolboxTemplate) games to help get you started.
 
 ### Q: How can I appeal an in-game ban?
 If you have been banned from the official "Wizard's Den" servers, you can appeal your ban in our [forums](https://forum.playss14.com/w/ban-appeal).

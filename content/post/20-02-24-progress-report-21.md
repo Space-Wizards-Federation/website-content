@@ -115,7 +115,7 @@ It's basic, but it works. Rendering rich text is hard, ok?
 
 ## Introducing HackMD as a public dev wiki
 
-**Note**: Documentation has since moved to [our own site.](https://docs.playss14.com)
+**Note**: Documentation has since moved to [our own site.](https://docs.ss14.io)
 
 You can now view the [Space Station 14 Dev Wiki](https://hackmd.io/@ss14/docs/)! You will find various bikeshedding gameplay discussions, technical design and documentation, contribution guides, incomplete/nonsense pages, and much more!
 

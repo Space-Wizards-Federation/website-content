@@ -20,4 +20,4 @@ Fixes
 
 * Updated auth and hub to point to the new domains
 
-This update will be made available on all platforms as soon as possible. For manual downloads, [get them here](https://github.com/Space-Wizards-Federation/SS14.Launcher/releases).
+This update will be made available on all platforms as soon as possible. For manual downloads, [get them here](https://github.com/space-wizards/SS14.Launcher/releases).

@@ -29,8 +29,8 @@ Currently, the project is in a "pre-alpha" state. We have many tasks ahead of us
 
 Rome was not built in a day, and neither was SS14. We can always use extra hands! The entire project is open source and available on GitHub here:
 
-* Main Repo: [Space-Wizards-Federation/space-station-14](https://github.com/Space-Wizards-Federation/space-station-14).
-* Engine: [Space-Wizards-Federation/RobustToolbox](https://github.com/Space-Wizards-Federation/RobustToolbox).
+* Main Repo: [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14).
+* Engine: [space-wizards/RobustToolbox](https://github.com/space-wizards/RobustToolbox).
 
 We primarily communicate through Discord:
 
@@ -39,7 +39,7 @@ We primarily communicate through Discord:
 We also have some other project services set up:
 
 * [Automatic Content Builds](/about/nightlies)
-* [Developer Documentation](https://github.com/Space-Wizards-Federation/docs)
+* [Developer Documentation](https://github.com/space-wizards/docs)
 
 ## History
 
